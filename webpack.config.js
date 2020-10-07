@@ -17,6 +17,7 @@ module.exports = {
     devServer: {
         compress: true,
         historyApiFallback: true,
+	host: "becalm.valora.io",
         port: 3000,
     },
 
