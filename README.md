@@ -1,6 +1,6 @@
-# Becalm server
+# Becalm Frontend
 
-This server holds data about the patients, the devices posting data, and the sensor data posted by the devices.
+This web application shows data about the patients, the devices posting data, and the sensor data posted by the devices.
 
 ## Getting started 🚀
 
